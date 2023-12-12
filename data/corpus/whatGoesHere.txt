@@ -1,0 +1,2 @@
+This is where to add the *dataset*_labels.txt and *dataset*_sentences.txt files.
+This is also where the *dataset*_sentences_clean.txt and *dataset*_vocab.txt files will spawn.
