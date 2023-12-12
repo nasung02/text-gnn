@@ -20,3 +20,8 @@ After model configuration, simply run
 ```
 $ python main.py
 ```
+Alternatively, run
+```
+$ bash execute.sh
+```
+To run bash script that will install dependencies and run the model
