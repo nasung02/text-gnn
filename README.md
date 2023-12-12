@@ -11,6 +11,8 @@ For a new dataset, prepare a `[dataset_name]_labels.txt` and `[dataset_name]_sen
 Use `prep_data.py` to further clean `[dataset_name]_sentences.txt`.
 The script will generate a  `[dataset_name]_sentences_clean.txt`
 To create the vocab for the graph, use 'build_graph.py'.
+
+For the datasets used in my final paper, download from: https://drive.google.com/drive/folders/1uR57Qesnu1L9n3NFpPDN54qWQhx5ygt1?usp=share_link
  
 ## Running the model
 First, install the requirements listed in the requirements.txt file.
